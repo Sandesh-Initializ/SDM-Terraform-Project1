@@ -1,2 +1,2 @@
 # SDM-Terraform-Project1
-This project had terraform script to create an S3 bucket.
+This project has terraform script to create an S3 bucket.
